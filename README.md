@@ -1,5 +1,5 @@
 # L0bbyB0t
-Lobby Bot Status : working✔️
+Lobby Bot Status = Working✔️
 
 
 # How to use?
