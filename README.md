@@ -18,3 +18,5 @@ Lobby Bot Status : working✔️
 
 
 # Whats my Auth Key?
+{"redirectUrl":"com.epicgames.fortnite://fnauth/?code=AUTHKEY","sid":null}
+copy AUTHKEY on https://www.epicgames.com/id/api/redirect?clientId=3446cd72694c4a4485d81b77adbb2141&responseType=code it will be different for example: DJ383838DJJDS3939
